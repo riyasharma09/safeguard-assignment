@@ -1,0 +1,1 @@
+account_b_arn = "arn:aws:iam::537124975343:role/AccountBRole"
